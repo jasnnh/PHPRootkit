@@ -7,4 +7,7 @@ but in this example i did not code a full directory listing it's limited to only
 
 PHP can also do other tasks such as execute a .exe file remotely just via the web browser running the Rootkit script.
 
-![Screenshot](
+![Screenshot](https://github.com/jasnnh/PHPRootkit/blob/main/ss.PNG)
+
+In the Cyber security world a hacker would upload this file onto a web server and use this script to gain full access to the victim's PC/Server. to combat against this
+type of hack is usually prevent uploading of certain file types such as .php
